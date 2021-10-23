@@ -7,6 +7,13 @@
 
 @flag offset_shift 0x100
 
+// Npc Cape [Haxxie]
+@disabled
+000DB078 20008052
+00F4282C 25008052
+00193548 A80000B4
+0019355C 689E41F968FFFFB5
+
 // One Player Private Battles [OatmealDome]
 @enabled
 00371E78 1F2003D51F2003D509000014
