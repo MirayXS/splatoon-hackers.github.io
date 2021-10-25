@@ -7,7 +7,19 @@
 
 @flag offset_shift 0x100
 
-// Npc Cape [Haxxie]
+// Sanitized Rival Plaza NPCs (rq Rival Fix) [Haxxie]
+@disabled
+0008A2F4 E8008052
+0008A31C C90C8052
+0008A32C 090A80D2
+
+// Rival Plaza NPCs (rq Rival Fix) [Haxxie]
+@disabled
+0008A2F4 C8008052
+0008A31C 890C8052
+0008A32C 090A80D2
+
+// Npc Cape (rq OE) [Haxxie]
 @disabled
 000DB078 20008052
 00F4282C 25008052
